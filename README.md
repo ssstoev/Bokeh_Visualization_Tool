@@ -2,7 +2,7 @@
 
 Interactive Visualizations on the BHIC geneaological dataset. The data is stored in 11 XML files and can be downloaded at 
  https://opendata.picturae.com/organization/bhic
- For easier use the most relevant information has been saved in a CSV files.
+ For easier use the most relevant information has been saved in CSV files.
 
 Requirements:
 * Python version >= 3.6
